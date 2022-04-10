@@ -10,11 +10,15 @@ body {
 }
 h1 {
 	font-family: 'Oswald', sans-serif;
-	font-size: 100px;
+	font-size: 140px;
 	font-weight: bold;
 	text-transform: uppercase;
 	color: #4B73B8;
 }
+
+space {
+	font-size: 60px;
+} 
 
 /* Changing the background colour for the header */
 
@@ -34,6 +38,12 @@ footer a:hover {
 	opacity: .5;
 }
 
+.btn-danger {
+	background-color: #FDA5DE;
+	border-color: #FDA5DE;
+}
+
 .btn-warning {
-	color: cornflowerblue;
+	background-color: #CC81B2;
+	border-color: #CC81B2;
 }
