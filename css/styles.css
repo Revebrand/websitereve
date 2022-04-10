@@ -13,6 +13,7 @@ h1 {
 	font-size: 100px;
 	font-weight: bold;
 	text-transform: uppercase;
+	color: #4B73B8;
 }
 
 /* Changing the background colour for the header */
@@ -31,4 +32,8 @@ header {
 
 footer a:hover {
 	opacity: .5;
+}
+
+.btn-warning {
+	color: cornflowerblue;
 }
