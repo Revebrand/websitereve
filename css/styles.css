@@ -47,3 +47,14 @@ footer a:hover {
 	background-color: #CC81B2;
 	border-color: #CC81B2;
 }
+
+
+/* dit is voor de product html */
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 100px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #4B73B8;
+}
