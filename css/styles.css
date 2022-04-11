@@ -22,9 +22,12 @@ space {
 
 /* Changing the background colour for the header */
 
+
+
 header {
-	background-color: #E3EFF9;
+  background-color: #E3EFF9;
 }
+	
 
 .header2 {
 	background-color: #CC81B2;
