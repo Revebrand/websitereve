@@ -26,6 +26,9 @@ header {
 	background-color: #E3EFF9;
 }
 
+.header2 {
+	background-color: #CC81B2;
+}
 /* Changing the background color for the navigation bar */
 
 .navbar {
@@ -38,14 +41,10 @@ footer a:hover {
 	opacity: .5;
 }
 
-.btn-danger {
+
+.btn-light {
 	background-color: #FDA5DE;
 	border-color: #FDA5DE;
-}
-
-.btn-warning {
-	background-color: #CC81B2;
-	border-color: #CC81B2;
 }
 
 
