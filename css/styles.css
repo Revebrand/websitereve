@@ -22,7 +22,9 @@ space {
 
 /* Changing the background colour for the header */
 
-
+b2 {
+	background-color: #FDA5DE;
+}
 
 header {
   background-color: #E3EFF9;
