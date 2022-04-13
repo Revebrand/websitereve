@@ -6,7 +6,7 @@
 
 body {
 	font-family: 'Oswald', sans-serif;
-	background-color: #fffcf8;
+	background-color: #E3EFF9;
 }
 h1 {
 	font-family: 'Oswald', sans-serif;
@@ -22,15 +22,21 @@ space {
 
 /* Changing the background colour for the header */
 
-
+dl {
+	background-color: #FDA5DE;
+}
 
 header {
   background-color: #E3EFF9;
 }
 	
 
-.header2 {
-	background-color: #CC81B2;
+h3 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 60px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #4B73B8;
 }
 /* Changing the background color for the navigation bar */
 
@@ -48,16 +54,28 @@ footer a:hover {
 .btn-light {
 	background-color: #FDA5DE;
 	border-color: #FDA5DE;
+	color: white;
 }
 
-
+.ourvision {
+	background-color: #4B73B8;
+	border-color: #4B73B8;
+	color: white;
+}
 /* dit is voor de product html */
 
-h3 {
+p1 {
 	font-family: 'Oswald', sans-serif;
-	font-size: 80px;
-	font-weight: bold;
-	color: #4B73B8;
+	font-size: 70px;
+	color: #CC81B2;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+h5 {
+	ont-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: black;
 }
 
 /* dit is voor de ABOUT US html */
