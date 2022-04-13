@@ -73,4 +73,9 @@ p1 {
 	text-transform: uppercase;
 }
 
+h5 {
+	ont-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color: white;
+}
 /* dit is voor de ABOUT US html */
