@@ -22,7 +22,7 @@ space {
 
 /* Changing the background colour for the header */
 
-b2 {
+dl {
 	background-color: #FDA5DE;
 }
 
@@ -79,5 +79,13 @@ h5 {
 	ont-family: 'Oswald', sans-serif;
 	font-size: 40px;
 	color: white;
+}
+
+h6 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 70px;
+	color: #CC81B2;
+	text-align: right;
+	text-transform: uppercase;
 }
 /* dit is voor de ABOUT US html */
