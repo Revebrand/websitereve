@@ -73,9 +73,14 @@ p1 {
 }
 
 h5 {
-	ont-family: 'Oswald', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-size: 20px;
 	color: black;
 }
 
+h6 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	color: #4B73B8;
+}
 /* dit is voor de ABOUT US html */
