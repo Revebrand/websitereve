@@ -31,15 +31,12 @@ header {
 }
 	
 
-h2 {
-	background-color: #FDA5DE;
-}
-
 h3 {
 	font-family: 'Oswald', sans-serif;
 	font-size: 50px;
 	text-transform: uppercase;
-	color: #CC81B2
+	font-weight: bold;
+	color: #4B73B8;
 }
 /* Changing the background color for the navigation bar */
 
