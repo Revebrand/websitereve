@@ -38,6 +38,14 @@ h3 {
 	color: #4B73B8;
 	text-align: center;
 }
+
+h4 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 60px;
+	text-transform: uppercase;
+	color: #CC81B2;
+	text-align: center;
+}
 /* Changing the background color for the navigation bar */
 
 .navbar {
