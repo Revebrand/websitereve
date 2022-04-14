@@ -41,6 +41,14 @@ h3 {
 
 h4 {
 	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	text-transform: uppercase;
+	color: #4B73B8;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
 	font-size: 60px;
 	text-transform: uppercase;
 	color: #CC81B2;
